@@ -2,7 +2,7 @@
 
 ![alt text](image-15.png)
 ![alt text](image-16.png)
-![alt text](image.png)
+![alt text](image0.png)
 
 # Docker Multi-Stage Build Homework
 
@@ -53,4 +53,6 @@ docker build -t multi-stage-hello .
 
 ![alt text](image-13.png)
 ![alt text](image-14.png)
+
+
 
