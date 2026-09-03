@@ -20,6 +20,7 @@ I used a multi-stage Dockerfile to build and run a Node.js application. The Dock
 
 ```bash
 docker build -t multi-stage-hello .
+```
 
 # Apache-app
 
